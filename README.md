@@ -1,4 +1,4 @@
-Installation
+# Installation
 
     clone the repo 
     install the requirements.txt
@@ -10,8 +10,8 @@ Installation
     python manage.py runserver
     user : http://127.0.0.1:8000/swagger/  
 
-   swagger : ![alt text](Screenshot_swagger.png)
+# swagger : ![alt text](Screenshot_swagger.png)
 
-   postman - post  ![alt text](Screenshot_post.png)
+# postman - post  ![alt text](Screenshot_post.png)
 
-   postman - post  ![alt text](Screenshot_get.png)
+#  postman - post  ![alt text](Screenshot_get.png)
